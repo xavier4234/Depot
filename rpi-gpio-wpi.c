@@ -1,6 +1,6 @@
 #include <string.h>
 #include <stdio.h>
-#include <stdlib.h
+#include <stdlib.h>
 #include <wiringPi.h>
 
 int pinGPIO;
